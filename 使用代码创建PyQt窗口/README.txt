@@ -4,3 +4,4 @@
 4. IconForm：设置应用程序图标
 5. ToolTip：设置空间提示文字
 6. QLabel使用方式
+7. QLineEdit控件和回显模式
