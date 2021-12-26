@@ -7,3 +7,4 @@
 7. QLineEditEchoMode：QLineEdit控件和回显模式
 8. QLineEditValidator：QLineEdit控件的输入（校验器）
 9. QLineEditMask：用掩码限制QLineEdit控件的输入
+10. QTextEdit的使用
