@@ -9,7 +9,7 @@ class FirstMainWindow(QMainWindow):
 
     def __init__(self, parent=None):
         super(FirstMainWindow, self).__init__(parent)
-#111111111111111
+
         # 设置主窗口的标题
         self.setWindowTitle("第一个PyQt5主窗口应用")
 
