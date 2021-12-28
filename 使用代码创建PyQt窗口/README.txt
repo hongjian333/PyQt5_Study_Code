@@ -10,3 +10,4 @@
 10. QTextEdit的使用
 11. QPushButton的使用
 12. QRadioButton的使用
+13. QCheckBox复选框的使用
