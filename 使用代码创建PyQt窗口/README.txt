@@ -11,3 +11,4 @@
 11. QPushButton的使用
 12. QRadioButton的使用
 13. QCheckBox复选框的使用
+14. QComboBox下拉列表的使用
