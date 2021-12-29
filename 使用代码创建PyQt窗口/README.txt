@@ -13,3 +13,4 @@
 13. QCheckBox复选框的使用
 14. QComboBox下拉列表的使用
 15. QSlider滑块控件的使用
+16. QSpinBox计数器控件的使用
